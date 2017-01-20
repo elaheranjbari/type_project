@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1483418943 source:c:\users\eli-rn\desktop\akhariii ishala\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	<string.h>
+
